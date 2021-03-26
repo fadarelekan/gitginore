@@ -1,5 +1,0 @@
-some new file
-
-we are ignoring new file in
-
-one more edit

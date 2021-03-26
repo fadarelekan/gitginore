@@ -1,6 +1,6 @@
 #ignore single line
 
-new-file1.txt
+new-file.txt
 
 #ignore all files
 bin/
